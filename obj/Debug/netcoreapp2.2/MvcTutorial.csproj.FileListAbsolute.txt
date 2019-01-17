@@ -28,3 +28,4 @@ C:\Users\david\Apps\MvcTutorial\obj\Debug\netcoreapp2.2\MvcTutorial.Views.pdb
 C:\Users\david\Apps\MvcTutorial\obj\Debug\netcoreapp2.2\MvcTutorial.dll
 C:\Users\david\Apps\MvcTutorial\obj\Debug\netcoreapp2.2\MvcTutorial.pdb
 C:\Users\david\Apps\MvcTutorial\obj\Debug\netcoreapp2.2\MvcTutorial.csproj.CopyComplete
+C:\Users\david\Apps\MvcTutorial\obj\Debug\netcoreapp2.2\Razor\Views\HelloWorld\Index.g.cshtml.cs
